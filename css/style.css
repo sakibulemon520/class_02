@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    font-family: "Oswald", sans-serif;
+}
+h2{
+    color: rgb(0, 209, 195);
+    font-size: 45px;
+    background-color: black;
+    font-family: "Oswald", sans-serif;
+    font-weight: 370;
+    margin: 0;
+    text-align: center;
+    }
+
+    .saif{
+        width: 900px;
+        margin: 0 auto;
+        padding: 10px 25px;
+    }
+
+.saif p{
+    font-family: "Oswald", sans-serif;
+    font-size: 25px;
+    background-color: rgb(166, 250, 164);
+    margin: 0;
+    text-align: center;
+    line-height: 1.4;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.emon p{
+    font-size: 20px;
+    margin: 10px 25;
+}
+.emon{
+    width: 900px;
+    margin: 10px auto;
+    font-weight: 350;
+    display: flex;
+    flex-wrap: wrap;
+}
+.saif_1{
+    flex-basis: 50%;
+    padding-right: 5px;
+    box-sizing: border-box;
+}
+
+.saif_2{
+    flex-basis: 50%;
+}
+img{
+    max-width: 100%;
+    display: block;
+}
+.box{
+    background-color: #ff93d4d8;
+    padding: 50px;
+    height: 100%;
+    box-sizing: border-box;
+}
+h3{
+    margin: 0;
+}
+.b{
+    font-family: "Oswald", sans-serif;
+}
